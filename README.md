@@ -27,20 +27,20 @@ I’m an addict to improvement — the kind who gets restless when things stop e
 ## 🚀 Projects & Work
 
 ### 🔷 Hackathon Projects  
-2nd Place Winner of &Hacks 2024: `https://github.com/TheNarrator42/ANDHACKS2024` - Finance Learner and Stock Game
-HooHacks 2025 Project: `https://github.com/dhu2022-dev/hoohacks2025` - All in one AI Camera settings recommender, as well as a chatbot specialized for camera information
-HooHacks 2024 Project: `https://github.com/alex-yung-github/HooBuff/` - Workout creation app based on inputted goals
+2nd Place Winner of &Hacks 2024: `https://github.com/TheNarrator42/ANDHACKS2024` - Finance Learner and Stock Game <br>
+HooHacks 2025 Project: `https://github.com/dhu2022-dev/hoohacks2025` - All in one AI Camera settings recommender, as well as a chatbot specialized for camera information <br>
+HooHacks 2024 Project: `https://github.com/alex-yung-github/HooBuff/` - Workout creation app based on inputted goals <br>
 
 ### 🔷 TheCourseForum  
-Course discussion platform — used for notes, threads, and small group collaboration.  
+Course discussion platform — used for notes, threads, and small group collaboration.  <br>
 Repo: `https://github.com/thecourseforum/theCourseForum2`
 
 ### 🔷 Advanced Software Development Project
-Consulting Project for Ting Pavilion under Red Light Management - Accelerate search for artists for contracting using ML analysis from data aggregated from ticket sales, artist information, etc
+Consulting Project for Ting Pavilion under Red Light Management - Accelerate search for artists for contracting using ML analysis from data aggregated from ticket sales, artist information, etc <br>
 Repo: `https://github.com/dhu2022-dev/rlm-booking-app`
 
 ### 🔷 Advanced Software Development Project
-Fully hosted site on Heroku for culminating project in the Advanced Software Development Class - Gear Catalog
+Fully hosted site on Heroku for culminating project in the Advanced Software Development Class - Gear Catalog <br>
 Repo: `https://github.com/uva-cs3240-s25/project-a-06`
 
 > Each project above should include a full README — see the project README templates in this profile for quick starter content.
