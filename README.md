@@ -1,83 +1,102 @@
-# 👋 Hey, I'm Alex Yung
+<div align="center">
 
-I’m an addict to improvement — the kind who gets restless when things stop evolving. It can be the gym, a new sport, or adapting to new codebases. Eat growth for fuel.
+<!-- OMORI-inspired minimalist header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=180&section=header&text=Alex%20Yung&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=software%20engineer%20·%20builder%20·%20curious%20by%20nature&descSize=14&descColor=cccccc&descAlignY=55" width="100%"/>
 
+</div>
 
-## 🧠 About Me
-- 🎓 **B.S. Computer Science**, University of Virginia  
-- 🏫 HS Diploma, Thomas Jefferson School of Science and Technology (TJHSST)  
-- 💼 **Currently Interning at Amazon Web Services, Prior SWE Intern at Capital One** — working on real systems, data handling, and automation 
-- 🌱 **Exploring:** LLM research (storage optimization), ML infra, and full-stack systems  
-- 🛠️ **Interested in:** fintech, ML infrastructure, web hosting
-
----
-
-## 🧰 Tools & Technologies
-
-**Languages:** Python · Java · TypeScript · SQL · Go, Bash <br>
-**Frontend:** React · HTML/CSS · JavaScript · Bootstrap  
-**Backend:** Django · Flask · Spring Boot  
-**Data / Infra:** PostgreSQL · AWS (S3, Lambda, RDS, SageMaker, etc)  
-**Dev Workflow:** GitHub Actions · VSCode · CloudWatch, Jenkins
-</br>
-`But most importantly, I'm very adaptable. I've found that to be the best trait whenever a new codebase is placed in front of me, along with being curious.`
+<p align="center">
+  <i>I like to build things and keep a cozy aesthetic</i> 
+</p>
 
 ---
 
-## 🚀 Projects & Work
+## About Me
 
-### 🔷 Hackathon Projects  
-2nd Place Winner of &Hacks 2024: `https://github.com/TheNarrator42/ANDHACKS2024` - Finance Learner and Stock Game <br>
-HooHacks 2025 Project: `https://github.com/dhu2022-dev/hoohacks2025` - All in one AI Camera settings recommender, as well as a chatbot specialized for camera information <br>
-HooHacks 2024 Project: `https://github.com/alex-yung-github/HooBuff/` - Workout creation app based on inputted goals <br>
-
-### 🔷 TheCourseForum  
-Course discussion platform — used for notes, threads, and small group collaboration.  <br>
-Repo: `https://github.com/thecourseforum/theCourseForum2`
-
-### 🔷 Advanced Software Development Project
-Consulting Project for Ting Pavilion under Red Light Management - Accelerate search for artists for contracting using ML analysis from data aggregated from ticket sales, artist information, etc <br>
-Repo: `https://github.com/dhu2022-dev/rlm-booking-app`
-
-### 🔷 Advanced Software Development Project
-Fully hosted site on Heroku for culminating project in the Advanced Software Development Class - Gear Catalog <br>
-Repo: `https://github.com/uva-cs3240-s25/project-a-06`
-
-> Each project above should include a full README — see the project README templates in this profile for quick starter content.
+- **B.S. Computer Science** — University of Virginia
+- **HS Diploma** — Thomas Jefferson School of Science and Technology (TJHSST)
+- Currently exploring: LLM research (storage optimization), ML infrastructure, and full-stack systems
+- Interested in: fintech, ML infrastructure, web hosting
 
 ---
 
-## 🔬 Exploring
-- **LLM research:** storage optimization for embedding/vector stores, retrieval efficiency, and cost-effective long-term storage of model artifacts and vectors. 
+## Recent Experience
+
+| Role | Company | Summary |
+|------|---------|---------|
+| **SDE Intern** | Amazon Web Services | Worked on real systems, data handling, and automation across AWS services |
+| **SWE Intern** | Capital One | Software engineering intern contributing to production systems |
+| **SDE Intern** | ManTech | Modernized a legacy monolithic platform into a micro-service architecture using React and Django |
+| **..** | .. | View [LinkedIn](https://www.linkedin.com/in/ayung0) for more |
 
 ---
 
-## 📫 How to reach me (temporary/placeholder links)
-- LinkedIn: `https://www.linkedin.com/in/alex-yung-086ba4247/`  
-- Email: `erg3kp@virginia.edu`
+## Tools & Technologies
+
+```
+Languages      Python · Java · TypeScript · SQL · Go · Bash
+Frontend       React · HTML/CSS · JavaScript · Bootstrap
+Backend        Django · Flask · Spring Boot
+Data / Infra   PostgreSQL · AWS (S3, Lambda, RDS, SageMaker)
+Dev Workflow   GitHub Actions · VSCode · CloudWatch · Jenkins
+```
+
+> *Most importantly, I'm very adaptable. A fallback trait whenever a new codebase, or anything new, is placed in front of me — along with being curious.*
 
 ---
 
-## 💭 Outside of Work — what I actually spend time doing
+## Prior Projects & Work [WIP]
 
-### ♣ Card Games
-I love card games — poker, the capitalism card game, bridge, cambio — and picking up new ones. I used to play **Pokémon TCG competitively** and still get a nostalgic thrill from a tight match.
+### Hackathon Projects
+- **2nd Place — &Hacks 2024:** [Finance Learner & Stock Game](https://github.com/TheNarrator42/ANDHACKS2024)
+- **HooHacks 2025:** [AI Camera Settings Recommender + Chatbot](https://github.com/dhu2022-dev/hoohacks2025)
+- **HooHacks 2024:** [HooBuff — Workout Creation App](https://github.com/alex-yung-github/HooBuff/)
 
-### 🎵 Pump It Up (rhythm game)
-I play Pump It Up — currently training to hit **13s**.  
-Placeholder image:  
-<img src="imgs\pit.png" width="400"/>
+### TheCourseForum
+Course discussion platform — used for notes, threads, and small group collaboration.
+[View Repo](https://github.com/thecourseforum/theCourseForum2)
 
+### Consulting Project — Ting Pavilion (Red Light Management)
+Consulting project to accelerate artist search for contracting using ML analysis on aggregated ticket sales and artist data.
+[View Repo](https://github.com/dhu2022-dev/rlm-booking-app)
 
-### 🍳 Food & Cooking
-Big foodie and home cook. I love trying new restaurants and experimenting in the kitchen. Favorite dishes I eat include:
-- Red Braised Pork
-- Hong Kong style chicken
-- Sushi
-
-### 🏅 Sports & Fitness
-I play & practice: pickleball, climbing, ping pong, running, and soccer — always down for a match or a route.
+### Advanced Software Development — Gear Catalog
+Fully hosted site on Heroku for a culminating class project.
+[View Repo](https://github.com/uva-cs3240-s25/project-a-06)
 
 ---
 
-Thanks for stopping by! 👋
+## Exploring
+
+- **LLM Research:** Storage optimization for embedding/vector stores, retrieval efficiency, and cost-effective long-term storage of model artifacts and vectors.
+
+---
+
+## Contact
+
+- **LinkedIn:** [alex-yung](https://www.linkedin.com/in/alex-yung-086ba4247/)
+- **Email:** [erg3kp@virginia.edu](mailto:erg3kp@virginia.edu)
+
+---
+
+## Outside of Work
+
+**Card Games** — Poker, bridge, cambio, and more. Former competitive Pokémon TCG player.
+
+**Pump It Up** — Currently training to hit 13s.
+<br>
+<img src="imgs/pit.png" width="400"/>
+
+**Food & Cooking** — Big foodie and home cook. Favorites: red braised pork, Hong Kong style chicken, sushi.
+
+**Sports & Fitness** — Pickleball, climbing, ping pong, running, soccer — always down for a match.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:000000&height=100&section=footer" width="100%"/>
+
+<sub>thanks for stopping by.</sub>
+
+</div>
